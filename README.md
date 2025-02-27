@@ -31,9 +31,6 @@ This repo includes four different Jupyter Notebook (`.ipynb`) files, showcasing 
 - gspread_dataframe
 - JSON
 
-## Repository Link
-[Impark Internship Repository](https://github.com/eyyupcanisler/impark-internship)
-
 ## Contact
 For any questions or collaboration inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/eyyupcanisler/).
 
